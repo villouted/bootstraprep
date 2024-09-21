@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navcolor {
+  background-color: #28a745 !important;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.card {
+  margin: 0 auto;
+}
+
+.text-secondary {
+  font-weight: 80;
+  color: #707070;
+  margin: 0;
+}
+
+.text-oferta {
+  color: #28a745;
+  font-size: 20px;
+  font-weight: 62px;
+}
+
+form {
+  margin: 0 auto;
+}
+
+hr {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+footer {
+  text-align: center;
+}
+
+footer p {
+  color: #707070;
+  font-weight: 100;
+}
